@@ -22,4 +22,3 @@ on:
                 user-name: ${{ secrets.USERNAME }}
                 password-secret: ${{ secrets.PASSWORD }}
                 solution-file: contoso_university_core_managed.zip
-      
